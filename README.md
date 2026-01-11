@@ -103,7 +103,7 @@ Flux 在不同平台上采用了最原生的系统级方案来接管网络流量
 ### 1. 下载代码
 
 ```bash
-git clone https://github.com/your-username/flux.git
+git clone https://github.com/flux-apphub/flux.git
 cd flux
 ```
 
