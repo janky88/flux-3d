@@ -199,6 +199,16 @@ flutter build linux
 
 ---
 
+## ☕ 請我喝杯咖啡
+
+如果這個專案對您有幫助，歡迎請作者喝杯咖啡，支持開源開發！
+
+| USDT (TRC20) | USDC (Arbitrum) | ETH (Arbitrum) | USDT (ERC20) |
+| :---: | :---: | :---: | :---: |
+| <img src="../assets/images/donation/usdt_trc20.png" width="180" alt="USDT TRC20"> | <img src="../assets/images/donation/usdc_arbitrum.png" width="180" alt="USDC Arbitrum"> | <img src="../assets/images/donation/eth_arbitrum.png" width="180" alt="ETH Arbitrum"> | <img src="../assets/images/donation/usdt_erc20.png" width="180" alt="USDT ERC20"> |
+
+---
+
 ## 🔗 相關專案
 
 ### 核心代理引擎

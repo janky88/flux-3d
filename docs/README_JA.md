@@ -198,6 +198,16 @@ flutter build linux
 
 ---
 
+## ☕ プロジェクトを支援
+
+このプロジェクトが役立った場合は、著者にコーヒーを一杯奢って、オープンソース開発を支援してください！
+
+| USDT (TRC20) | USDC (Arbitrum) | ETH (Arbitrum) | USDT (ERC20) |
+| :---: | :---: | :---: | :---: |
+| <img src="../assets/images/donation/usdt_trc20.png" width="180" alt="USDT TRC20"> | <img src="../assets/images/donation/usdc_arbitrum.png" width="180" alt="USDC Arbitrum"> | <img src="../assets/images/donation/eth_arbitrum.png" width="180" alt="ETH Arbitrum"> | <img src="../assets/images/donation/usdt_erc20.png" width="180" alt="USDT ERC20"> |
+
+---
+
 ## 🔗 関連プロジェクト
 
 ### コアプロキシエンジン
